@@ -279,7 +279,7 @@
 [341.Flatten-Nested-List-Iterator](https://github.com/wisdompeak/LeetCode/blob/master/Stack/341.Flatten-Nested-List-Iterator/Readme.md) (M)   
 [173.Binary-Search-Tree-Iterator](https://github.com/wisdompeak/LeetCode/tree/master/Stack/173.Binary-Search-Tree-Iterator) (M)   
 [536.Construct-Binary-Tree-from-String](https://github.com/wisdompeak/LeetCode/tree/master/Stack/536.Construct-Binary-Tree-from-String) (M)   
-[456.132-Pattern](https://github.com/wisdompeak/LeetCode/tree/master/Stack/456.132-Pattern) (H-)    
+[456.132-Pattern](https://github.com/wisdompeak/LeetCode/tree/master/Stack/456.132-Pattern) (H-) (8/11/21, 看了答案都想不明白为什么要用 Stack）    
 [636.Exclusive-Time-of-Functions](https://github.com/wisdompeak/LeetCode/tree/master/Stack/636.Exclusive-Time-of-Functions) (H-)    
 [856.Score-of-Parentheses](https://github.com/wisdompeak/LeetCode/tree/master/Stack/856.Score-of-Parentheses) (M+) (8/11/21, Got stuck, don't know 突破口在哪里）    
 [946.Validate-Stack-Sequences](https://github.com/wisdompeak/LeetCode/tree/master/Stack/946.Validate-Stack-Sequences)（H-）(8/11/21, AC, Simulate the process, an index to track the popped array)   
