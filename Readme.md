@@ -296,7 +296,7 @@
 [496.Next-Greater-Element-I](https://github.com/wisdompeak/LeetCode/tree/master/Stack/496.Next-Greater-Element-I) (H-)    
 [503.Next-Greater-Element-II](https://github.com/wisdompeak/LeetCode/blob/master/Stack/503.Next-Greater-Element-II) (H-)    
 [221.Maximal-Square](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/221.Maximal-Square) (H-)    
-[739.Daily-Temperatures](https://github.com/wisdompeak/LeetCode/tree/master/Stack/739.Daily-Temperatures)  (H-)    
+[739.Daily-Temperatures](https://github.com/wisdompeak/LeetCode/tree/master/Stack/739.Daily-Temperatures)  (H-)(8/12/21, AC, MonoStack to store position and temperature)    
 [768.Max-Chunks-To-Make-Sorted-II](https://github.com/wisdompeak/LeetCode/tree/master/Stack/768.Max-Chunks-To-Make-Sorted-II) (H-)   
 [901.Online-Stock-Span](https://github.com/wisdompeak/LeetCode/tree/master/Stack/901.Online-Stock-Span) (H-)   
 [907.Sum-of-Subarray-Minimums](https://github.com/wisdompeak/LeetCode/tree/master/Stack/907.Sum-of-Subarray-Minimums) (H)   
