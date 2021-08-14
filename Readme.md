@@ -287,7 +287,7 @@
 [1209.Remove-All-Adjacent-Duplicates-in-String-II](https://github.com/wisdompeak/LeetCode/tree/master/Stack/1209.Remove-All-Adjacent-Duplicates-in-String-II) (M+)   
 [1586.Binary-Search-Tree-Iterator-II](https://github.com/wisdompeak/LeetCode/tree/master/Stack/1586.Binary-Search-Tree-Iterator-II) (H)  
 * ``monotonic stack``    
-[042.Trapping-Rain-Water](https://github.com/wisdompeak/LeetCode/tree/master/Others/042.Trapping-Rain-Water) (H)  
+[042.Trapping-Rain-Water](https://github.com/wisdompeak/LeetCode/tree/master/Others/042.Trapping-Rain-Water) (H)(8/14/21, AC, leftMax and rightMax combined)  
 [084.Largest-Rectangle-in-Histogram](https://github.com/wisdompeak/LeetCode/tree/master/Stack/084.Largest-Rectangle-in-Histogram) (H)   
 [085.Maximal-Rectangle](https://github.com/wisdompeak/LeetCode/tree/master/Stack/085.Maximal-Rectangle) (H-)    
 [255.Verify-Preorder-Sequence-in-Binary-Search-Tree](https://github.com/wisdompeak/LeetCode/tree/master/Tree/255.Verify-Preorder-Sequence-in-Binary-Search-Tree) (H)    
