@@ -782,7 +782,7 @@
 [1724.Checking-Existence-of-Edge-Length-Limited-Paths-II](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/1724.Checking-Existence-of-Edge-Length-Limited-Paths-II) (H+)  
 [1722.Minimize-Hamming-Distance-After-Swap-Operations](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/1722.Minimize-Hamming-Distance-After-Swap-Operations) (M+)  
 [803.Bricks-Falling-When-Hit](https://github.com/wisdompeak/LeetCode/tree/master/DFS/803.Bricks-Falling-When-Hit) (H)   
-[1970.Last-Day-Where-You-Can-Still-Cross](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/1970.Last-Day-Where-You-Can-Still-Cross) (H-)    
+[1970.Last-Day-Where-You-Can-Still-Cross](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/1970.Last-Day-Where-You-Can-Still-Cross) (H-)([LarryNY的代码](https://www.youtube.com/watch?v=IiXZ2_f6wug&t=663s) 更加易懂；Key: 1) use left and right 2) use seen)    
 * ``MST``    
 [1135.Connecting-Cities-With-Minimum-Cost](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/1135.Connecting-Cities-With-Minimum-Cost)　(M+)   
 [1168.Optimize-Water-Distribution-in-a-Village](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/1168.Optimize-Water-Distribution-in-a-Village) (H-)   
