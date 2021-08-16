@@ -1,3 +1,4 @@
+
 class Solution {
 public:
     string longestPalindrome(string s) 
@@ -14,25 +15,25 @@ public:
         for (int i=0; i<N; i++)
         {
             int k;
-            if (i<maxRight)
-            {
-                k = min(P[maxCenter*2-i],maxRight-i);
-                while (i-k>=0 && i+k<N && t[i-k]==t[i+k]) k++;                
-            }
-            else
+            if (i > maxRight)
             {
                 k = 0;
                 while (i-k>=0 && i+k<N && t[i-k]==t[i+k]) k++;
             }
-            P[i] = k-1;
-            if (i+k-1>maxRight)
+            else
             {
-                maxRight = i+k-1;
+                k = min(P[maxCenter*2-i],maxRight-i);
+                while (i-k>=0 && i+k<N && t[i-k]==t[i+k]) k++;                
+            }
+            P[i] = k-1;
+            if (i + P[i] > maxRight)
+            {
+                maxRight = i + P[i];
                 maxCenter = i;
             }
         }
         
-        for (auto x:P) cout<<x<<" ";
+        // for (auto x:P) cout<<x<<" ";
         
         int maxLen = -1;
         int center;
@@ -44,6 +45,6 @@ public:
                 center = i;                
             }
         }
-        return s.substr((center - maxLen)/2, maxLen);
+        return s.substr(center/2 - maxLen/2, maxLen);
     }
 };
