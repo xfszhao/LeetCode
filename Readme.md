@@ -417,7 +417,7 @@
 [637.Average-of-Levels-in-Binary-Tree](https://github.com/wisdompeak/LeetCode/tree/master/BFS/637.Average-of-Levels-in-Binary-Tree) (M)   
 [675.Cut-Off-Trees-for-Golf-Event](https://github.com/wisdompeak/LeetCode/tree/master/BFS/675.Cut-Off-Trees-for-Golf-Event) (M)    
 694.Number-of-Distinct-Islands (M+)   
-[785.Is-Graph-Bipartite](https://github.com/wisdompeak/LeetCode/tree/master/BFS/785.Is-Graph-Bipartite) (M+)    
+[785.Is-Graph-Bipartite](https://github.com/wisdompeak/LeetCode/tree/master/BFS/785.Is-Graph-Bipartite) (M+) (8/18/21，AC using BFS, 1. use group index; 2. use visited\[next\]; UF的思想比较巧妙)    
 [815.Bus-Routes](https://github.com/wisdompeak/LeetCode/tree/master/BFS/815.Bus-Routes) (M+)    
 [838.Push-Dominoes](https://github.com/wisdompeak/LeetCode/tree/master/BFS/838.Push-Dominoes) (M+)  
 [847.Shortest-Path-Visiting-All-Nodes](https://github.com/wisdompeak/LeetCode/tree/master/BFS/847.Shortest-Path-Visiting-All-Nodes) (H-)  
