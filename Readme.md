@@ -756,7 +756,7 @@
 [1960.Maximum-Product-of-the-Length-of-Two-Palindromic-Substrings](https://github.com/wisdompeak/LeetCode/tree/master/String/1960.Maximum-Product-of-the-Length-of-Two-Palindromic-Substrings) (H)    
 
 #### [Union Find](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find)
-[547.Friend-Circles](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/547.Friend-Circles) (M) (AC. 8/19/21)    
+[547.Friend-Circles](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/547.Friend-Circles) (M) (AC. 8/19/21; 最后 count的时候需要做一次 find! 因为 path compression并不能 compress先前的 nodes；那么加上或不加上 path compression 的 UF的时间复杂度是什么呢？)    
 [200.Number-of-Islands](https://github.com/wisdompeak/LeetCode/tree/master/DFS/200.Number-of-Islands) (H-)    
 [305.Number-of-Islands-II](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/305.Number-of-Islands-II) (H-)    
 [130.Surrounded-Regions](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/130.Surrounded-Regions) (H-)   
