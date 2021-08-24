@@ -426,7 +426,7 @@
 [1036.Escape-a-Large-Maze](https://github.com/wisdompeak/LeetCode/tree/master/BFS/1036.Escape-a-Large-Maze) (H)  
 [1245.Tree-Diameter](https://github.com/wisdompeak/LeetCode/tree/master/BFS/1245.Tree-Diameter) (H)    
 [1263.Minimum-Moves-to-Move-a-Box-to-Their-Target-Location](https://github.com/wisdompeak/LeetCode/tree/master/BFS/1263.Minimum-Moves-to-Move-a-Box-to-Their-Target-Location) (H)   
-[1293.Shortest-Path-in-a-Grid-with-Obstacles-Elimination](https://github.com/wisdompeak/LeetCode/tree/master/BFS/1293.Shortest-Path-in-a-Grid-with-Obstacles-Elimination) (H-)  
+[1293.Shortest-Path-in-a-Grid-with-Obstacles-Elimination](https://github.com/wisdompeak/LeetCode/tree/master/BFS/1293.Shortest-Path-in-a-Grid-with-Obstacles-Elimination) (H-)(8/24/21, reviewed, BFS k times, update dp\[i\]\[j\]\[k\])  
 [1298.Maximum-Candies-You-Can-Get-from-Boxes](https://github.com/wisdompeak/LeetCode/tree/master/BFS/1298.Maximum-Candies-You-Can-Get-from-Boxes) (M+)  
 [1311.Get-Watched-Videos-by-Your-Friends](https://github.com/wisdompeak/LeetCode/tree/master/BFS/1311.Get-Watched-Videos-by-Your-Friends) (M)  
 [1345.Jump-Game-IV](https://github.com/wisdompeak/LeetCode/tree/master/BFS/1345.Jump-Game-IV) (M+)  
