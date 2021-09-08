@@ -38,6 +38,7 @@
 [1838.Frequency-of-the-Most-Frequent-Element](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1838.Frequency-of-the-Most-Frequent-Element) (H-)  
 [395.Longest-Substring-with-At-Least-K-Repeating-Characters](https://github.com/wisdompeak/LeetCode/tree/master/Recursion/395.Longest-Substring-with-At-Least-K-Repeating-Characters) (H)    
 [1763.Longest-Nice-Substring](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1763.Longest-Nice-Substring) (H)      
+1423. Maximum Points You Can Obtain from Cards （E）(9/8/21, AC, 要诀：反过来求最小的Sliding Window Sum；注意：sumCurr和 sumMin的区别和必要性)    
 * ``Sliding window : Distinct Characters``    
 [076.Minimum-Window-Substring](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/076.Minimum-Window-Substring) (M+)    
 [003.Longest-Substring-Without-Repeating-Character](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/003.Longest%20Substring%20Without%20Repeating%20Characters) (E+)  
