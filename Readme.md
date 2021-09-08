@@ -944,6 +944,7 @@
 [955.Delete-Columns-to-Make-Sorted-II](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/955.Delete-Columns-to-Make-Sorted-II) (M+)  
 [1040.Moving-Stones-Until-Consecutive-II](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/1040.Moving-Stones-Until-Consecutive-II) (H)    
 1121.Divide Array Into Increasing Sequences (TBD)   
+1007.Minimum-Domino-Rotations-For-Equal-Row (9/8/21, AC after long time and many tries, 要诀：简单粗暴，4种可能->4次搜索/Scan)  
 [1191.K-Concatenation-Maximum-Sum](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/1191.K-Concatenation-Maximum-Sum) (M+)   
 [1253.Reconstruct-a-2-Row-Binary-Matrix](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/1253.Reconstruct-a-2-Row-Binary-Matrix) (M)    
 [1354.Construct-Target-Array-With-Multiple-Sums](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/1354.Construct-Target-Array-With-Multiple-Sums) (H-)  
