@@ -210,6 +210,7 @@
 [958.Check-Completeness-of-a-Binary-Tree](https://github.com/wisdompeak/LeetCode/blob/master/Tree/954.Check-Completeness-of-a-Binary-Tree/) (M+)    
 1339. Maximum-Product-of-Splitted-Binary-Tree (TBD)   
 [1104.Path-In-Zigzag-Labelled-Binary-Tree](https://github.com/wisdompeak/LeetCode/tree/master/Tree/1104.Path-In-Zigzag-Labelled-Binary-Tree) (M+)     
+1110. Delete Nodes And Return Forest (AC. 9/9/21. Key: Record new roots in pre-order, delete children in post-order traversal, and mix pre- and post- order in one DFS search)    
 [1660.Correct-a-Binary-Tree](https://github.com/wisdompeak/LeetCode/tree/master/Tree/1660.Correct-a-Binary-Tree) (M+)  
 [1666.Change-the-Root-of-a-Binary-Tree](https://github.com/wisdompeak/LeetCode/tree/master/Tree/1666.Change-the-Root-of-a-Binary-Tree) (H-)  
 [1932.Merge-BSTs-to-Create-Single-BST](https://github.com/wisdompeak/LeetCode/tree/master/Tree/1932.Merge-BSTs-to-Create-Single-BST) (H)  
