@@ -519,7 +519,7 @@
 [634.Find-the-Derangement-of-An-Array](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/634.Find-the-Derangement-of-An-Array) (H)    
 823.Binary-Trees-With-Factors (M+)  
 [221.Maximal-Square](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/221.Maximal-Square) (H-)    
-[1277.Count-Square-Submatrices-with-All-Ones](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/1277.Count-Square-Submatrices-with-All-Ones) (M+)   
+[1277.Count-Square-Submatrices-with-All-Ones](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/1277.Count-Square-Submatrices-with-All-Ones)(AC, 9/19/21) (M+)   
 [600.Non-negative-Integers-without-Consecutive-Ones](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/600.Non-negative-Integers-without-Consecutive-Ones) (H)    
 [656.Coin-Path](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/656.Coin-Path) (H-)   
 [053.Maximum-Subarray](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/053.Maximum-Subarray) (E+)  
