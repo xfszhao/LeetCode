@@ -450,7 +450,7 @@
 [310.Minimum-Height-Trees](https://github.com/wisdompeak/LeetCode/tree/master/Tree/310.Minimum-Height-Trees) (H-)    
 [444.Sequence-Reconstruction](https://github.com/wisdompeak/LeetCode/tree/master/BFS/444.Sequence-Reconstruction) (H)  
 [802.Find-Eventual-Safe-States](https://github.com/wisdompeak/LeetCode/tree/master/BFS/802.Find-Eventual-Safe-States) (H-)   
-1048.Longest-String-Chain (AC, 9/19/21, NOT simple BFS but a Topo sort, Good problem)  
+1048.Longest-String-Chain (AC, 9/19/21, NOT simple BFS but a Topo sort, Good problem; [这个反向 DFS+memo，正向 DP，with 反向找 predecessor的思想/方法挺好！](https://leetcode.com/problems/longest-string-chain/solution/)) (H-)  
 [1136.Parallel-Courses](https://github.com/wisdompeak/LeetCode/tree/master/BFS/1136.Parallel-Courses) (M)   
 [1203.Sort-Items-by-Groups-Respecting-Dependencies](https://github.com/wisdompeak/LeetCode/tree/master/BFS/1203.Sort-Items-by-Groups-Respecting-Dependencies) (H)  
 [1462.Course-Schedule-IV](https://github.com/wisdompeak/LeetCode/tree/master/BFS/1462.Course-Schedule-IV) (M)    
