@@ -3,7 +3,7 @@
 ### 解法1：
 考虑以每个字符为对称中心（或者为对称中心线左边的字符），同时往左往右推广，看看将回文半径最长能推至哪里。这个解法比较好写，复杂度是o(N^2)
 
-### 解法2：
+### 解法2：KMP
 有个更好的线性时间的Manacher算法，可以参考 https://segmentfault.com/a/1190000003914228 这里简单的介绍一下算法。
 
 我们将s = aaaba，填充"#"得到 t = #a#a#a#b#a#，我们令数组P[i]表示以t[i]为对称中心的最大回文半径（不包括t[i]本身）。这样做就是为了解决回文长度奇偶性的问题。在字符串t中，最大的P[i]就代表了最长的回文半径。
@@ -24,6 +24,7 @@ X  X  X  {X  X  X  X  X  X  X  X  X  X  X}  X  X  X  X  X
 
 这样，我们就可以顺序地探索所有P[i]，并找到其中的最大值maxLen，和对应的i的索引maxCenter。注意P的构建是基于t的，那么如何返回基于s的那个回文串呢？其实很巧妙，输出的就是:
 ```s.substr(maxCenter/2-maxLen/2,maxLen)```
+
 
 
 [Leetcode Link](https://leetcode.com/problems/longest-palindromic-substring)
